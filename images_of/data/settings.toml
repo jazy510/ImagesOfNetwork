@@ -627,15 +627,16 @@ search = [
     'caracol',
     'caye caulker',
     'caye chapel',
-    'chan chich'
+    'chan chich',
     'cockscomb basin',
     'corozal bay',
     'corozal town',
     'crooked tree wildlife sanctuary',
     'dangriga',
-    'glovers reef'
+    'glovers reef',
     'great blue hole',
     'guanacastle national park',
+    'halfmoon caye',
     'hattieville',
     'hol chan',
     'independence and mango creek',
@@ -643,7 +644,7 @@ search = [
     'ladyville',
     'lamanai',
     'lighthouse caye',
-    'lighthouse atoll'
+    'lighthouse atoll',
     'mountain pine ridge forest reserve',
     'orange walk town',
     'placencia',
